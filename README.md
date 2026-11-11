@@ -1,16 +1,61 @@
-# React + Vite
+# Edusity - Educational Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+Edusity is a responsive educational website developed using React.js, CSS, and JavaScript. It provides an attractive platform to explore educational programs, learn about the institution, and connect through the contact section.
 
-Currently, two official plugins are available:
+## Features
+- Responsive website design
+- Home page with attractive UI
+- About section
+- Educational programs section
+- Campus gallery
+- Student testimonials
+- Contact section
+- Responsive navigation bar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
 
-## React Compiler
+## Project Structure
+- src/
+- public/
+- index.html
+- package.json
+- vite.config.js
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Installation and Setup
 
-## Expanding the ESLint configuration
+1. Clone the repository:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+   git clone
+https://github.com/Varalakshmi107/edusity-educational-platform.git
+
+2. Navigate to the project folder:
+
+   cd edusity-educational-platform
+
+3. Install dependencies:
+
+   npm install
+
+4. Start the development server:
+
+   npm run dev
+
+5. Open the local URL displayed in the terminal.
+
+## Learning Reference & Credits
+
+This project was developed by following the Edusity website development tutorial by GreatStack on YouTube.
+Credits to GreatStack for the tutorial and learning guidance.
+
+## Author
+Varalakshmi
+
+GitHub:
+https://github.com/Varalakshmi107
+   
